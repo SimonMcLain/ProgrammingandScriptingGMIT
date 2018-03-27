@@ -1,11 +1,16 @@
-# Simon McLain, edited from a script created by Ian McLoughlin on 2018-02-12. Week 2 Exercise for Programming and Scripting
+# Simon McLain, edited from a script created by Ian McLoughlin on 2018-02-12 
+# https://github.com/ianmcloughlin/python-fib/blob/master/fibname.py
+# Week 2 Exercise for Programming and Scripting
 # This program coverts the first and last letter of someones name into a fibonaci number.
+# The ord() functionThe ord() function is used to return an integer of the given single Unicode character. 
+# The returned integer represents the Unicode code point.(reference: https://www.jquery-az.com)
 
 def fib(n):
   """This function returns the nth Fibonacci number."""
   i = 0
   j = 1
   n = n - 1
+  """Assigns values to variables i, j & n for the calculation"""
   while n >= 0:
     i, j = j, i + j
     n = n - 1
