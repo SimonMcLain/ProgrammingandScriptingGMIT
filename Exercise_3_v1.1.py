@@ -1,5 +1,5 @@
 # Simon McLain, 2018-2-12
-#Collatz Conjecture added user request to input integer
+# Collatz Conjecture added user request to input integer
 
 n = int(input("Please enter an integer: "))
 
