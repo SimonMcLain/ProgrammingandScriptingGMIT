@@ -1,5 +1,11 @@
-# ProgrammingandScriptingGMIT
-## This repository contains Exercises for the 2018 GMIT Programming and Scripting Course
+ # Programming and Scripting GMIT
+## This repository contains exercises submissions for the 2018 GMIT Programming and Scripting marked course work. It also contains three additional folders
+
+The .vscode folder contains shortcuts for Visual Studio code
+
+The Problem Sets folder contains Python Scripts attempting to solve the problem sets given in Week 8
+
+The Weekly Exercises folder contains rough work following the materials provided during the weekly lectures and from the Official Python Tutorial
 
 ### To run the files:
 1. Download and install Anaconda https://www.anaconda.com/download/
